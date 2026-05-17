@@ -12,7 +12,7 @@
 ## ✨ Highlights & Achievements <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60" align="right"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-500K%2B-success?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Downloads-900K%2B-success?style=for-the-badge&logo=google-play&logoColor=white"/>
   <img src="https://img.shields.io/badge/Experience-5+%20Years-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Education%20Apps-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TimeZone-Egypt%20UTC%2B2-blue?style=for-the-badge"/>
